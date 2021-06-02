@@ -1,0 +1,6 @@
+pyteomics==4.3.2
+jupyter==1.0.0
+jupyter-client==6.0.0
+jupyter-console==6.1.0
+jupyter-core==4.6.3
+notebook==6.0.3
